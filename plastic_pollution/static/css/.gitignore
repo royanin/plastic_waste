@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+instances.py
+instances_dev.py
+instances_prod.py
+logs/
+.DS_Store/
