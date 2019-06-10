@@ -15,3 +15,4 @@ def internal_error(error):
 @plastic_pollution.route('/', methods=['GET', 'POST'])
 def index():
     return render_template("index.html")
+
