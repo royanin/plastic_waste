@@ -23,4 +23,4 @@ if not plastic_pollution.debug:
     plastic_pollution.logger.addHandler(file_handler)
 
     plastic_pollution.logger.setLevel(logging.INFO)
-    plastic_pollution.logger.info('MITx_search startup...')
+    plastic_pollution.logger.info('plastic pollution dataviz startup...')
