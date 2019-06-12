@@ -1,7 +1,6 @@
 pandas==0.24.2
 Flask_SQLAlchemy==2.3.2
 requests==2.21.0
-SQLAlchemy==1.2.15
 oic==0.15.1
 Flask==1.0.2
 Flask_WTF==0.14.2
